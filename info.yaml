@@ -2,7 +2,7 @@
 project:
   wokwi_id:     434917624377094145
   title:        "brostarscard"      # Project title
-  author:       "brostar1962"      # Your name
+  author:       "brostar1961"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "tinytapeoutchip"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
